@@ -1,8 +1,19 @@
 import './App.css';
+import {Routes, Route, Link} from 'react-router-dom'
+import Home from './pages/Home'
+import Details from './pages/Details'
+import Promo from './pages/Promo'
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <Routes>
+        <Route path="/" element={<Home />}/>
+        <Route path="home" element={<Home />}/>
+        <Route path="details" element={<Details />}/>
+        <Route path="promo" element={<Promo />}/>
+        </Routes >
+        <Footer/>
     </div>
   );
 }
