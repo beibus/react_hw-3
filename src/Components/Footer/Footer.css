@@ -1,0 +1,17 @@
+.footerContent{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    text-align: center;
+}
+.footerText{
+    width: 20%;
+    font-weight: bold;
+    display: inline block;
+}
+.footerText-one{
+    width: auto;
+    font-weight: bold;
+
+}
