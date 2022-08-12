@@ -1,17 +1,17 @@
 // import logo from './logo.svg';
 import './Details.css';
-import SierraImage from './Images/Sierrapic.png'
-import Call from './Images/Vector.png'
-import Adress from './Images/AdressLogo.png'
-import Hours from './Images/WorkingHours.png'
-import Like from './Images/LikeLogo.png'
-import Rectangle from './Images/Rectangle.png'
-import Menu from './Images/Menu.png'
-import Venera from './Images/Venera.png'
-import Aisulu from './Images/Aisulu.png'
-import Tom from './Images/Tom.png'
-import Valeria from './Images/Valeria.png'
-import Artur from './Images/Artur.png'
+import SierraImage from '../../Images/Sierrapic.png'
+import Call from '../../Images/Vector.png'
+import Adress from '../../Images/AdressLogo.png'
+import Hours from '../../Images/WorkingHours.png'
+import Like from '../../Images/LikeLogo.png'
+import Rectangle from '../../Images/Rectangle.png'
+import Menu from '../../Images/Menu.png'
+import Venera from '../../Images/Venera.png'
+import Aisulu from '../../Images/Aisulu.png'
+import Tom from '../../Images/Tom.png'
+import Valeria from '../../Images/Valeria.png'
+import Artur from '../../Images/Artur.png'
 
 function Details() {
   return (
